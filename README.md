@@ -1,4 +1,4 @@
-This is a super concise resume template made on top of [alpineJS](https://alpinejs.dev/) and [UnoCSS](https://unocss.dev/).
+This is a super concise resume template made on top of [AlpineJS](https://alpinejs.dev/) and [UnoCSS](https://unocss.dev/).
 
 Preview:
 
